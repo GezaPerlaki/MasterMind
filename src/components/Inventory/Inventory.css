@@ -1,0 +1,17 @@
+.color-balls-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px auto;
+  width: 580px;
+}
+
+.new-game-button {
+  margin-top: 10px;
+  background-color: darkgrey;
+  color: black;
+  font-size: 18px;
+  padding: 10px 22px;
+  border: none;
+  box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
